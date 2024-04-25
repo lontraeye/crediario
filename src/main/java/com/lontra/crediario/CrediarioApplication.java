@@ -8,6 +8,6 @@ public class CrediarioApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CrediarioApplication.class, args);
-		System.out.println("Hello World2!");
+		System.out.println("Hello World!");
 	}
 }
